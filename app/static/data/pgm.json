@@ -1,0 +1,104 @@
+ [{
+    "firstname": "Sharlene",
+    "lastname": "Burke",
+    "email": "sharlene.burke@example.com",
+    "thumbnail": "https://randomuser.me/api/portraits/women/78.jpg",
+    "lijfspreuk": "quote 1",
+    "portfolio": { 
+        "github": "sharleneburke",
+        "Linkedin": "sharleneburke"
+    },
+    "student": "true",
+    "birthdate": "1671805681"
+},
+{
+    "firstname": "John",
+    "lastname": "Carpenter",
+    "email": "John.carpenter@example.com",
+    "thumbnail": "https://randomuser.me/api/portraits/men/59.jpg",
+    "lijfspreuk": "quote 2",
+    "portfolio": { 
+        "github": "johncarpenter",
+        "Linkedin": "johncarpenter"
+    },
+    "student": "true",
+    "birthdate": "1671805681"
+},
+{
+    "firstname": "Ian",
+    "lastname": "Chambers",
+    "email": "Ian.Chambers@example.com",
+    "thumbnail": "https://randomuser.me/api/portraits/men/58.jpg",
+    "lijfspreuk": "quote 3",
+    "portfolio": { 
+        "github": "IanChambers",
+        "Linkedin": "IanChambers"
+    },
+    "student": "true",
+    "birthdate": "1671805681"
+},
+{
+    "firstname": "Nellie",
+    "lastname": "Gonzales",
+    "email": "Nellie.Gonzales@example.com",
+    "thumbnail": "https://randomuser.me/api/portraits/women/42.jpg",
+    "lijfspreuk": "quote 4 ",
+    "portfolio": { 
+        "github": "NellieGonzales",
+        "Linkedin": "NellieGonzales"
+    },
+    "student": "false",
+    "birthdate": "11671805681"
+},
+{
+    "firstname": "Amelia",
+    "lastname": "Williamson",
+    "email": "Amelia.Williamson@example.com",
+    "thumbnail": "https://randomuser.me/api/portraits/women/67.jpg",
+    "lijfspreuk": "quote 5",
+    "portfolio": { 
+        "github": "AmeliaWilliamson",
+        "Linkedin": "AmeliaWilliamson"
+    },
+    "student": "true",
+    "birthdate": "1671805681"
+},
+{
+    "firstname": "Georgia",
+    "lastname": "Martin",
+    "email": "Georgia.Martin@example.com",
+    "thumbnail": "https://randomuser.me/api/portraits/women/85.jpg",
+    "lijfspreuk": "quote 6",
+    "portfolio": { 
+        "github": "GeorgiaMartin",
+        "Linkedin": "GeorgiaMartin"
+    },
+    "student": "false",
+    "birthdate": "1671805681"
+},
+{
+    "firstname": "Soham",
+    "lastname": "Lambert",
+    "email": "Soham.Lambert@example.com",
+    "thumbnail": "https://randomuser.me/api/portraits/men/60.jpg",
+    "lijfspreuk": "quote 7",
+    "portfolio": { 
+        "github": "SohamLambert",
+        "Linkedin": "SohamLambert"
+    },
+    "student": "true",
+    "birthdate": "1671805681"
+},
+{
+    "firstname": "Darell",
+    "lastname": "Hoffman",
+    "email": "Darell.Hoffman@example.com",
+    "thumbnail": "https://randomuser.me/api/portraits/men/71.jpg",
+    "lijfspreuk": "quote 8",
+    "portfolio": { 
+        "github": "DarellHoffman",
+        "Linkedin": "DarellHoffman"
+    },
+    "student": "true",
+    "birthdate": "1671805681"
+}]
